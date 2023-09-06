@@ -1,5 +1,5 @@
 {
-    "project_name": "{{cookiecutter.project_name}}",
-    "description": "{{cookiecutter.description}}",
-    "repo_name": "{{cookiecutter.repo_name}}"
+    "project_name": "nome_do_projeto",
+    "description": "Uma breve descricao do projeto",
+    "repo_name": "{{cookiecutter.project_name.lower().replace(' ', '_')}}"
 }
