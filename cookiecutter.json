@@ -1,0 +1,5 @@
+{
+    "project_name": "{{cookiecutter.project_name}}",
+    "description": "{{cookiecutter.description}}",
+    "repo_name": "{{cookiecutter.repo_name}}"
+}
